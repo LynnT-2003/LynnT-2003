@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Application Development<br>🌱 Currently learning Discord.js, and other Frameworks<br>🤝 Looking for help with Full-Stack Developments<br>⚡ Fun fact - I like Oreos and Cute anime girls
+🔭 I’m currently working on Web Application Development<br>🌱 Currently learning Discord.js, and other Frameworks<br>⚡ I like Oreos and Cute anime girls
 
 
 # 💻 Tech Stack:
