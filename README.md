@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=LynnT-2003&icon=5&color=0)](https://visitcount.itsvg.in)
 🔭 Working on Web Application Development<br>🌱 Currently learning Discord.js, and other Frameworks<br>⚡ I like Oreos and Cute anime girls
 
 
@@ -9,4 +9,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LynnT-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LynnT-2003&icon=5&color=0)](https://visitcount.itsvg.in)
+
