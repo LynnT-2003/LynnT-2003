@@ -1,6 +1,6 @@
 # 📊 Tech Stack:
 ## I mostly do Full Stack Web Application Development & Data Science. Currently exploring Natural Language Processing and AI Concepts.
-Full Stack Web Application Development Enthusiast
+Full Stack Web Application Development Enthusiast<br/>
 Data Science and Deep Machine Learning Specialist
 
 
