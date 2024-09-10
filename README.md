@@ -3,7 +3,7 @@
 - Full Stack Web Application Developer<br/>
 - AI Machine Learning + Deep Learning Enthusiast<br/>
 
-### Tapan's #1 hater
+### Providing Digital Solutions for Businesses
 
 2023 Update: Currently exploring Natural Language Processing using nltk and AI Concepts + Algorithm Design.<br/><br/>
 2024 Feb Update: Actively looking into Android Application Development with Flutter and Kotlin, while also diving deeper into NextJS's techstack.<br/><br/>
