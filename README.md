@@ -5,7 +5,7 @@
 
 ### Providing Digital Solutions for Businesses
 
-2022: Started Fundamentals in Web Application Development
+2022: Started Fundamentals in Web Application Development.<br/><br/>
 2023 Update: Currently exploring Natural Language Processing using NLTK and AI Concepts + Algorithm Design.<br/><br/>
 2024 Feb Update: Actively looking into Android Application Development with Flutter and Kotlin, while also diving deeper into NextJS's techstack.<br/><br/>
 2024 Aug Update: Actively diving into IOS Application Development with SwiftUI and UIKit, while mastering Fullstack Web Application Development with React NextJS, Golang and Sanity. Currently taking on a web application project for Maha Vertex Realty & The Grand Dental.<br/><br/>
