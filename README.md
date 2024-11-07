@@ -6,8 +6,8 @@
 ### Providing Digital Solutions for Businesses
 
 2022: Started Fundamentals in Web Application Development.<br/><br/>
-2023 Update: Currently exploring Natural Language Processing using NLTK and AI Concepts + Algorithm Design.<br/><br/>
-2024 Feb Update: Actively looking into Android Application Development with Flutter and Kotlin, while also diving deeper into NextJS's techstack.<br/><br/>
+2023 Update: Acrively exploring NLP using NLTK and AI Concepts + Algorithn Design. Researching into Big Data Analytics, Data Mining, and Data Science.<br/><br/>
+2024 Feb Update: Actively looking into Android Application Development with Flutter and Kotlin Jetpack Compose, while also diving deeper into NextJS's techstack.<br/><br/>
 2024 Aug Update: Actively diving into IOS Application Development with UIKit, while mastering Fullstack Web Application Development with React NextJS, Golang and Sanity.<br/><br/>
 2024 Aug: Currently taking on a professional Real-Estate Web Application project for Maha Vertex Realty.<br/><br/>
 2024 November: Leading the development of an AI Image-Generation Web Application project for Baksters.Co.<br/><br/>
