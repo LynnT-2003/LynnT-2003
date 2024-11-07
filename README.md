@@ -9,7 +9,7 @@
 2023 Update: Currently exploring Natural Language Processing using NLTK and AI Concepts + Algorithm Design.<br/><br/>
 2024 Feb Update: Actively looking into Android Application Development with Flutter and Kotlin, while also diving deeper into NextJS's techstack.<br/><br/>
 2024 Aug Update: Actively diving into IOS Application Development with UIKit, while mastering Fullstack Web Application Development with React NextJS, Golang and Sanity.<br/><br/>
-2024 Aug: Currently taking on a web application project for Maha Vertex Realty.<br/><br/>
+2024 Aug: Currently taking on a professional Real-Estate Web Application project for Maha Vertex Realty.<br/><br/>
 2024 November: Leading the development of an AI Image-Generation Web Application project for Baksters.Co.<br/><br/>
 2024 November: Working independently on a solo side project Lynn-Anim8: an AI Video-Generation Web Application.<br/><br/>
    
