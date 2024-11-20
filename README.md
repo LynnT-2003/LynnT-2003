@@ -2,6 +2,7 @@
 ## I mostly do Full Stack Web Application Development & Data Science. 
 - Full Stack Web Application Developer<br/>
 - AI Machine Learning + Deep Learning Enthusiast<br/>
+- Experienced in both iOS and Android App Dev as well.<br/>
 
 ### Providing Digital Solutions for Businesses
 
