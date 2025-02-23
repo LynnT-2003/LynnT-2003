@@ -8,8 +8,7 @@
  [![](https://visitcount.itsvg.in/api?id=LynnT-2003&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LynnT-2003&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LynnT-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LynnT-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  <br/>
 
 ### Providing Digital Solutions for Businesses
 
