@@ -1,5 +1,5 @@
 # 📊 Tech Stack: <br/> ![](https://img.shields.io/github/stars/LynnT-2003)
-## Hi ! I handle a range of projects from WebDev - MLOps - to DevOps. 
+## Hi. I handle a range of projects from WebDev - MLOps - to DevOps!
 - Full Stack Web Application Developer in NextJS & NestJS<br/>
 - Native Mobile Application Developer in Kotlin & Swift.<br/>
 - AI / ML Researcher, Pytorch - Tensorflow - SageMaker<br/>
