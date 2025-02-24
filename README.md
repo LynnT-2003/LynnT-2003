@@ -1,4 +1,4 @@
-# 📊 Tech Stack:
+# 📊 Tech Stack: ![](https://img.shields.io/github/stars/LynnT-2003)
 ## I mostly do Full Stack Web Application Development & Data Science. 
 - Full Stack Web Application Developer<br/>
 - AI Machine Learning + Deep Learning Enthusiast<br/>
