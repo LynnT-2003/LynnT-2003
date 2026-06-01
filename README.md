@@ -25,7 +25,7 @@
 - **Databases:** PostgreSQL, MongoDB, Neon
 - **ORMs:** Prisma, Mongoose
 - **Auth & Services:** Stripe, Passport, JWT, Resend,
-  Sanity, Firebase, Appwrite, Cloudinary [...]
+  Sanity, Firebase, Appwrite, Cloudinary, Blocknote  [...]
 
 **🛠 Tools**
 - **CLI Development:** Ink, Commander.js, ts-morph
@@ -35,6 +35,7 @@
 **📈 Growth & Analytics**
 - **Marketing:** PostHog, Google Analytics
 - **Monitoring:** Prometheus, Grafana, Sentry
+- **Content:** YouTube, X/Twitter, LinkedIn, Instagram
 
 **💼 Workflow**
 - **Project Management:** Notion Kanban
