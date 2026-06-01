@@ -24,16 +24,17 @@
 - **Frameworks:** NestJS, Express, Node.js
 - **Databases:** PostgreSQL, MongoDB, Neon
 - **ORMs:** Prisma, Mongoose
-- **Auth & Services:** Passport.js, OAuth (Google, GitHub, Discord, Microsoft, LINE), JWT, Stripe, Resend
+- **Auth & Services:** Stripe, Passport, JWT, Resend,
+  Sanity, Firebase, Appwrite, Cloudinary [...]
 
 **🛠 Tools**
 - **CLI Development:** Ink, Commander.js, ts-morph
 - **DevOps & CI/CD:** Git, GitHub, Docker, AWS, GCP
 - **AI Workflows:** Claude Code, Cursor, Codex, AWS, N8n
 
-**📈 Growth**
-- **Analytics:** PostHog, GA, Prometheus, Grafana, Sentry
-- **Content:** YouTube, Twitter/X, LinkedIn, Instagram
+**📈 Growth & Analytics**
+- **Marketing:** PostHog, Google Analytics
+- **Monitoring:** Prometheus, Grafana, Sentry
 
 **💼 Workflow**
 - **Project Management:** Notion Kanban
