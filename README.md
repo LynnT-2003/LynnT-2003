@@ -28,7 +28,7 @@
 
 **🛠 Tools**
 - **CLI Development:** Ink, Commander.js, ts-morph
-- **DevOps & CI/CD:** Git, GitHub Actions, Docker, AWS, GCP
+- **DevOps & CI/CD:** Git, GitHub, Docker, AWS, GCP
 - **AI Workflows:** Claude Code, Cursor, Codex, AWS, N8n
 
 **📈 Growth**
