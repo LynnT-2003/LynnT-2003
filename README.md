@@ -15,7 +15,7 @@
 [Check out Yulio](https://yuliolabs.com) ›› [Get in touch](mailto:lynn@yuliolabs.com) ›› [Book a call](https://yuliolabs.com/#contact)
 
 **🎨 Frontend**
-- **Frameworks:** Next.js, React
+- **Frameworks:** Next.js, React, React Native, Expo
 - **Languages:** TypeScript, JavaScript
 - **Styling & UI:** Tailwind, shadcn/ui, DaisyUI
 - **Animation:** Framer Motion, Three.js
@@ -27,21 +27,20 @@
 - **Auth & Services:** Passport.js, OAuth (Google, GitHub, Discord, Microsoft, LINE), JWT, Stripe, Resend
 
 **🛠 Tools**
-- **CLI Development:** TypeScript, Ink, Commander.js, ts-morph
-- **DevOps & CI/CD:** Git, GitHub Actions, Vercel, Railway
-- **AI Workflows:** Claude Code, Cursor, Codex
-- **Package Registry:** npm
+- **CLI Development:** Ink, Commander.js, ts-morph
+- **DevOps & CI/CD:** Git, GitHub Actions, Docker, AWS, GCP
+- **AI Workflows:** Claude Code, Cursor, Codex, AWS, N8n
 
 **📈 Growth**
-- **Analytics:** PostHog, Vercel Analytics
+- **Analytics:** PostHog, GA, Prometheus, Grafana, Sentry
 - **Content:** YouTube, Twitter/X, LinkedIn, Instagram
 
 **💼 Workflow**
-- **Project Management:** Notion, Linear
-- **Hosting:** Vercel, Railway, MongoDB Atlas
+- **Project Management:** Notion Kanban
+- **Hosting:** Cloudflare, Vercel, Railway, Atlas
 
 **🌱 Off the keyboard**
-- Light Novel · Piano · Chess · Running · Bouldering
+- Light Novel · Piano · Chess · Bouldering · Running
 
 
 [![X lynnt_builds](https://img.shields.io/badge/@lynnt__builds-000000?style=flat&logo=x&logoColor=white)](https://x.com/lynnt_builds)
