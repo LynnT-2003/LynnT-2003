@@ -10,9 +10,9 @@
 </td>
 <td width="50%" valign="top">
 
-### Founder & CEO @ [Yulio Labs](https://yuliolabs.com)
+### Founder & CEO @ Yulio Labs
 
-[Check out Yulio](https://yuliolabs.com/docs) ›› [Get in touch](mailto:lynn@yuliolabs.com) ›› [Book a call](https://yuliolabs.com/#contact)
+[Check out Yulio](https://yuliolabs.com) ›› [Get in touch](mailto:lynn@yuliolabs.com) ›› [Book a call](https://yuliolabs.com/#contact)
 
 **🎨 Frontend**
 - **Frameworks:** Next.js, React
