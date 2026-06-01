@@ -38,14 +38,11 @@
 
 **💼 Workflow**
 - **Project Management:** Notion, Linear
-- **Design:** Figma
-- **Media:** DaVinci Resolve, Veo
 - **Hosting:** Vercel, Railway, MongoDB Atlas
 
 **🌱 Off the keyboard**
 - Light Novel · Piano · Chess · Running · Bouldering
 
-**Get in Touch**
 
 [![X lynnt_builds](https://img.shields.io/badge/@lynnt__builds-000000?style=flat&logo=x&logoColor=white)](https://x.com/lynnt_builds)
 [![X buildwithyulio](https://img.shields.io/badge/@buildwithyulio-000000?style=flat&logo=x&logoColor=white)](https://x.com/buildwithyulio)
