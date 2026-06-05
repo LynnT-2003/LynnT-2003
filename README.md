@@ -12,7 +12,7 @@
 
 ### Founder & CEO @ Yulio Labs
 
-[Check out Yulio](https://yuliolabs.com) ›› [Get in touch](mailto:lynn@yuliolabs.com) ›› [Book a call](https://yuliolabs.com/#contact)
+[Check out Yulio](https://yuliolabs.com) ›› [Get in touch](https://lynn-adventures.vercel.app) ›› [Book a call](https://yuliolabs.com/#contact)
 
 **🎨 Frontend**
 - **Frameworks:** Next.js, React, React Native, Expo
